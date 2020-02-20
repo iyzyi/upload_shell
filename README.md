@@ -10,5 +10,5 @@
 
 上传的目标文件夹设定在`uploads`数组中。
 
-其他问题可戳[VPS指定文件夹自动上传到OneDrive](http://iyzyi.com/index.php/archives/540/)
+其他问题可戳[VPS指定文件夹自动上传到OneDrive](http://blog.iyzyi.com/index.php/archives/540/)
 
